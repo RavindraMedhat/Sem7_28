@@ -1,0 +1,7 @@
+B:\sem7_28\.net\Mean_Median_Mode\bin\Debug\Mean_Median_Mode.exe.config
+B:\sem7_28\.net\Mean_Median_Mode\bin\Debug\Mean_Median_Mode.exe
+B:\sem7_28\.net\Mean_Median_Mode\bin\Debug\Mean_Median_Mode.pdb
+B:\sem7_28\.net\Mean_Median_Mode\obj\Debug\Mean_Median_Mode.csproj.AssemblyReference.cache
+B:\sem7_28\.net\Mean_Median_Mode\obj\Debug\Mean_Median_Mode.csproj.CoreCompileInputs.cache
+B:\sem7_28\.net\Mean_Median_Mode\obj\Debug\Mean_Median_Mode.exe
+B:\sem7_28\.net\Mean_Median_Mode\obj\Debug\Mean_Median_Mode.pdb
