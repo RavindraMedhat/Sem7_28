@@ -5,3 +5,10 @@ B:\sem7_28\.net\Mean_Median_Mode\obj\Debug\Mean_Median_Mode.csproj.AssemblyRefer
 B:\sem7_28\.net\Mean_Median_Mode\obj\Debug\Mean_Median_Mode.csproj.CoreCompileInputs.cache
 B:\sem7_28\.net\Mean_Median_Mode\obj\Debug\Mean_Median_Mode.exe
 B:\sem7_28\.net\Mean_Median_Mode\obj\Debug\Mean_Median_Mode.pdb
+R:\sem-7\Collage\Sem7_28\Mean_Median_Mode\bin\Debug\Mean_Median_Mode.exe.config
+R:\sem-7\Collage\Sem7_28\Mean_Median_Mode\bin\Debug\Mean_Median_Mode.exe
+R:\sem-7\Collage\Sem7_28\Mean_Median_Mode\bin\Debug\Mean_Median_Mode.pdb
+R:\sem-7\Collage\Sem7_28\Mean_Median_Mode\obj\Debug\Mean_Median_Mode.csproj.AssemblyReference.cache
+R:\sem-7\Collage\Sem7_28\Mean_Median_Mode\obj\Debug\Mean_Median_Mode.csproj.CoreCompileInputs.cache
+R:\sem-7\Collage\Sem7_28\Mean_Median_Mode\obj\Debug\Mean_Median_Mode.exe
+R:\sem-7\Collage\Sem7_28\Mean_Median_Mode\obj\Debug\Mean_Median_Mode.pdb

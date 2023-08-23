@@ -1,0 +1,14 @@
+R:\sem-7\DotNet\Q2\bin\Debug\netcoreapp3.1\Q2.exe
+R:\sem-7\DotNet\Q2\bin\Debug\netcoreapp3.1\Q2.deps.json
+R:\sem-7\DotNet\Q2\bin\Debug\netcoreapp3.1\Q2.runtimeconfig.json
+R:\sem-7\DotNet\Q2\bin\Debug\netcoreapp3.1\Q2.runtimeconfig.dev.json
+R:\sem-7\DotNet\Q2\bin\Debug\netcoreapp3.1\Q2.dll
+R:\sem-7\DotNet\Q2\bin\Debug\netcoreapp3.1\Q2.pdb
+R:\sem-7\DotNet\Q2\obj\Debug\netcoreapp3.1\Q2.csproj.AssemblyReference.cache
+R:\sem-7\DotNet\Q2\obj\Debug\netcoreapp3.1\Q2.GeneratedMSBuildEditorConfig.editorconfig
+R:\sem-7\DotNet\Q2\obj\Debug\netcoreapp3.1\Q2.AssemblyInfoInputs.cache
+R:\sem-7\DotNet\Q2\obj\Debug\netcoreapp3.1\Q2.AssemblyInfo.cs
+R:\sem-7\DotNet\Q2\obj\Debug\netcoreapp3.1\Q2.csproj.CoreCompileInputs.cache
+R:\sem-7\DotNet\Q2\obj\Debug\netcoreapp3.1\Q2.dll
+R:\sem-7\DotNet\Q2\obj\Debug\netcoreapp3.1\Q2.pdb
+R:\sem-7\DotNet\Q2\obj\Debug\netcoreapp3.1\Q2.genruntimeconfig.cache

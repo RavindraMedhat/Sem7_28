@@ -5,3 +5,10 @@ B:\sem7_28\.net\matrix\obj\Debug\matrix.csproj.AssemblyReference.cache
 B:\sem7_28\.net\matrix\obj\Debug\matrix.csproj.CoreCompileInputs.cache
 B:\sem7_28\.net\matrix\obj\Debug\matrix.exe
 B:\sem7_28\.net\matrix\obj\Debug\matrix.pdb
+R:\sem-7\Collage\Sem7_28\matrix\bin\Debug\matrix.exe.config
+R:\sem-7\Collage\Sem7_28\matrix\bin\Debug\matrix.exe
+R:\sem-7\Collage\Sem7_28\matrix\bin\Debug\matrix.pdb
+R:\sem-7\Collage\Sem7_28\matrix\obj\Debug\matrix.csproj.AssemblyReference.cache
+R:\sem-7\Collage\Sem7_28\matrix\obj\Debug\matrix.csproj.CoreCompileInputs.cache
+R:\sem-7\Collage\Sem7_28\matrix\obj\Debug\matrix.exe
+R:\sem-7\Collage\Sem7_28\matrix\obj\Debug\matrix.pdb

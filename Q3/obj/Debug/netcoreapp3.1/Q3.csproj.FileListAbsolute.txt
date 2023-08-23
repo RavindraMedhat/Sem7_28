@@ -1,0 +1,14 @@
+R:\sem-7\DotNet\Q3\obj\Debug\netcoreapp3.1\Q3.csproj.AssemblyReference.cache
+R:\sem-7\DotNet\Q3\obj\Debug\netcoreapp3.1\Q3.GeneratedMSBuildEditorConfig.editorconfig
+R:\sem-7\DotNet\Q3\obj\Debug\netcoreapp3.1\Q3.AssemblyInfoInputs.cache
+R:\sem-7\DotNet\Q3\obj\Debug\netcoreapp3.1\Q3.AssemblyInfo.cs
+R:\sem-7\DotNet\Q3\obj\Debug\netcoreapp3.1\Q3.csproj.CoreCompileInputs.cache
+R:\sem-7\DotNet\Q3\bin\Debug\netcoreapp3.1\Q3.exe
+R:\sem-7\DotNet\Q3\bin\Debug\netcoreapp3.1\Q3.deps.json
+R:\sem-7\DotNet\Q3\bin\Debug\netcoreapp3.1\Q3.runtimeconfig.json
+R:\sem-7\DotNet\Q3\bin\Debug\netcoreapp3.1\Q3.runtimeconfig.dev.json
+R:\sem-7\DotNet\Q3\bin\Debug\netcoreapp3.1\Q3.dll
+R:\sem-7\DotNet\Q3\bin\Debug\netcoreapp3.1\Q3.pdb
+R:\sem-7\DotNet\Q3\obj\Debug\netcoreapp3.1\Q3.dll
+R:\sem-7\DotNet\Q3\obj\Debug\netcoreapp3.1\Q3.pdb
+R:\sem-7\DotNet\Q3\obj\Debug\netcoreapp3.1\Q3.genruntimeconfig.cache

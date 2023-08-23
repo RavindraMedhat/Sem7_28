@@ -90,5 +90,63 @@ namespace matrix
                 }
             }
         }
+
+        //static T[,] InvertMatrix(T[,] matrix)
+        //{
+        //    int n = matrix.GetLength(0);
+        //    T[,] identity = new T[n, n];
+        //    T[,] augmentedMatrix = new T[n, 2 * n];
+
+        //    // Initialize the identity matrix
+        //    for (int i = 0; i < n; i++)
+        //    {
+        //        identity[i, i] = (T)Convert.ChangeType(1, typeof(T));
+        //    }
+
+        //    // Create the augmented matrix [matrix | identity]
+        //    for (int i = 0; i < n; i++)
+        //    {
+        //        for (int j = 0; j < n; j++)
+        //        {
+        //            augmentedMatrix[i, j] = matrix[i, j];
+        //            augmentedMatrix[i, j + n] = identity[i, j];
+        //        }
+        //    }
+
+        //    // Gaussian elimination to transform [matrix | identity] into [identity | inverted_matrix]
+        //    for (int i = 0; i < n; i++)
+        //    {
+        //        T diagonal = augmentedMatrix[i, i];
+        //        for (int j = i; j < 2 * n; j++)
+        //        {
+        //            augmentedMatrix[i, j] /= diagonal;
+        //        }
+
+        //        for (int k = 0; k < n; k++)
+        //        {
+        //            if (k != i)
+        //            {
+        //                double factor = augmentedMatrix[k, i];
+        //                for (int j = i; j < 2 * n; j++)
+        //                {
+        //                    augmentedMatrix[k, j] -= factor * augmentedMatrix[i, j];
+        //                }
+        //            }
+        //        }
+        //    }
+
+        //    // Extract the right side of the augmented matrix as the inverted matrix
+        //    double[,] invertedMatrix = new double[n, n];
+        //    for (int i = 0; i < n; i++)
+        //    {
+        //        for (int j = 0; j < n; j++)
+        //        {
+        //            invertedMatrix[i, j] = augmentedMatrix[i, j + n];
+        //        }
+        //    }
+
+        //    return invertedMatrix;
+        //}
+
     }
 }
